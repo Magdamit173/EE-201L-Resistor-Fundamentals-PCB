@@ -16177,7 +16177,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ROVIC MAGDAMIT - BS ECE"
+	(gr_text "BS ECE - 2A"
 		(at 35 105.5 0)
 		(layer "F.SilkS")
 		(uuid "fc87a7dd-3ee4-45cb-b756-439e852b3756")
