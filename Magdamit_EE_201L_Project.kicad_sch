@@ -2418,7 +2418,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1K"
 			(at 38.1 101.5999 0)
 			(effects
 				(font
@@ -3163,7 +3163,7 @@
 				)
 			)
 		)
-		(property "Value" "510R"
+		(property "Value" "2.2K"
 			(at 78.74 33.02 90)
 			(effects
 				(font
@@ -3232,7 +3232,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "3.3K"
 			(at 110.49 166.3699 0)
 			(effects
 				(font
@@ -3301,7 +3301,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1K"
 			(at 30.48 137.16 90)
 			(effects
 				(font
@@ -3643,7 +3643,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "2K"
 			(at 57.15 101.5999 0)
 			(effects
 				(font
@@ -3842,7 +3842,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e236027-1d92-4ed8-a508-58ae89b42036")
 		(property "Reference" "SW1"
 			(at 40.64 30.48 0)
@@ -4259,7 +4258,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "510R"
+		(property "Value" "2.2K"
 			(at 86.36 166.3699 0)
 			(effects
 				(font
@@ -4866,7 +4865,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "3.3K"
 			(at 101.6 33.02 90)
 			(effects
 				(font
@@ -5066,7 +5065,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "2K"
 			(at 50.8 33.02 90)
 			(effects
 				(font
@@ -5532,7 +5531,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "510R"
+		(property "Value" "2.2K"
 			(at 76.2 101.5999 0)
 			(effects
 				(font
@@ -5601,7 +5600,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1K"
 			(at 29.21 33.02 90)
 			(effects
 				(font
@@ -5669,7 +5668,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "2K"
 			(at 55.88 137.16 90)
 			(effects
 				(font
@@ -5738,7 +5737,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "3.3K"
 			(at 93.98 101.5999 0)
 			(effects
 				(font
