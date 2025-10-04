@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="792" height="612" viewBox="0 0 792 612">
-<rect x="-79.2" y="-61.2" width="950.4" height="734.4" fill="rgb(100%, 100%, 100%)" fill-opacity="1"/>
-<rect x="-79.2" y="-61.2" width="950.4" height="734.4" fill="rgb(100%, 100%, 100%)" fill-opacity="1"/>
+<rect x="-79.2" y="-61.2" width="950.4" height="734.4" fill="rgba(100%, 100%, 100%, 0%)" fill-opacity="1"/>
+<rect x="-79.2" y="-61.2" width="950.4" height="734.4" fill="rgba(100%, 100%, 100%, 0%)" fill-opacity="1"/>
 <path fill="none" stroke-width="3.84" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 231.520833 313.4375 L 223.041667 322.078125 " transform="matrix(0.75, 0, 0, 0.75, 0, 0)"/>
 <path fill="none" stroke-width="3.84" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 261.760417 326.71875 L 261.760417 313.4375 " transform="matrix(0.75, 0, 0, 0.75, 0, 0)"/>
 <path fill="none" stroke-width="3.84" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 243.838542 313.4375 L 231.520833 313.4375 " transform="matrix(0.75, 0, 0, 0.75, 0, 0)"/>
