@@ -4618,7 +4618,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "330R"
 			(at 78.74 33.02 90)
 			(effects
 				(font
@@ -5386,7 +5386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "510R"
 			(at 124.46 33.02 90)
 			(effects
 				(font
@@ -7121,7 +7121,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "470R"
 			(at 101.6 33.02 90)
 			(effects
 				(font
@@ -7457,7 +7457,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "220R"
 			(at 50.8 33.02 90)
 			(effects
 				(font
